@@ -2,8 +2,13 @@
 Hello, I'am Júlio.
 
 I can help you with:
-- Scala
-- Kubernetes.
+- Scala: ZIO ecosystem
+- TypeScript: NestJS and RxJS
+- AWS
+- Kubernetes
+- Terraform
+- Datadog
+- Kafka
 
 Ciao.
 ```
