@@ -13,5 +13,3 @@ My favorite stack:
 > Well-typed programs never fail, for sure.
 
 Ciao.
-
-[<img src="https://img.shields.io/badge/meet me-red"/>](https://calendar.app.google/ZUnT1khskeooa69aA)
